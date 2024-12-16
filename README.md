@@ -1,7 +1,7 @@
 # Bone-Age-Assessment
 
 ## Overview
-This project leverages deep learning to automate bone age estimation in children using hand-wrist radiographs, focusing on accuracy, efficiency, and gender-informed predictions.
+This project leverages deep learning to automate bone age estimation in children using hand-wrist radiographs, focusing on accuracy, efficiency, and gender-informed predictions. It is a university project conducted by me, Erica Marras, and my colleague, Daniela Di Labbio, for the course Human Data Analytics.
 
 ## Features
 - Three neural network models: CNN, ResNet, and Global-Local ResNet.
